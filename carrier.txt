@@ -1,0 +1,13 @@
+CCS522/4 - Advanced Data Communications and Computer Networks
+
+This course focuses on the advanced principles and workings of Data Communications and Computer
+Networks. The type of networks covered will include Local Area Network (LAN, Metropolitan Area
+Network (MAN, and Wide Area Network (WAN. Focus will be on layers 2, 3 and 4 of the OSI Network
+Model, concentrating on the TCP/IP suite for Internet. Some important topics are: Ethernet Technologies
+and High Speed Networks, IPv6, traffic congestion and flow control, and QoS support in modern
+networks.
+
+At the end of this course, the students will be able to:
+- Describe the important features of high speed computer network for LAN, MAN and WAN in wired
+and wireless, and main network protocols, namely TCP/IP, IPv6, and QoS support.
+- Execute projects according to listed topics
